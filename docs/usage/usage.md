@@ -14,7 +14,7 @@ selfbotdiscord.send_message(token="token here",channel_id="your channel id",mess
 
 ```python
 import selfbotdiscord
-selfbotdiscord.join_server(token="token here",server_id="discord.gg/(here is the server id tike discord.gg/neptun)")
+selfbotdiscord.join_server(token="token here",server_id="discord.gg/(here is the server id like 63zHZDeukZ)")
 ```
 **You can join servers with this code**
 ```python
